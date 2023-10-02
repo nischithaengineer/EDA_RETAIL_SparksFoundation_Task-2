@@ -40,8 +40,6 @@ d. Shipping Analysis:
 2. Low-profit categories or sub-categories that may need pricing or marketing adjustments.
 3. Regions or states with lower profits, indicating potential market expansion or optimization.
 4. High discount levels that lead to reduced profits, suggesting the need for discount strategy revisions.
-5. Customer segments that are not contributing to profit, signaling the need for targeted marketing or retention efforts.
-6. Inefficient shipping modes that impact profitability.
 
 # Iterate and Refine:
 * EDA is an iterative process. As new data becomes available or as you address business problems, continue to refine your analysis to drive continuous improvement and profit optimization.
