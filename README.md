@@ -17,8 +17,8 @@
    
 * Check for Data Quality Issues:
 1. Check for missing values using data.isnull().sum() and address any missing data appropriately.
-Data Visualization for Insights:
 
+* Data Visualization for Insights:
 * Create various visualizations to gain insights into the data.
 a. Profit Analysis:
 * Analyze profit by different dimensions, such as categories, sub-categories, and regions.
